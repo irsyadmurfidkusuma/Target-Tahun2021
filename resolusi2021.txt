@@ -4,7 +4,7 @@ Mempelajari technologi front end.
 - Menguasai mengusai bahasa pemrograman javasript.
 - Menguasai lebih dalam dan expert dalam html & css.
 - Dapat membuat minimal web personal.
-- Mempelajari framework.
+- Mempelajari framework css dan javascript.
 
 Jika hal di atas sudah tercapai maka melanjutkan
 - mempelajari technologi backend.
